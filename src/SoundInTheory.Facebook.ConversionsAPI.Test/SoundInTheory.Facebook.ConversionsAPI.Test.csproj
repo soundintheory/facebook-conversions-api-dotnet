@@ -81,7 +81,7 @@ Contact: web_signals_integrations@fb.com
   <Import Project="$(MsBuildToolsPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
       <ProjectReference Include="..\SoundInTheory.Facebook.ConversionsAPI\SoundInTheory.Facebook.ConversionsAPI.csproj">
-          <Project>{25E29E78-82F1-4478-B9FE-3FAC9E0AA84A}</Project>
+          <Project>{0ECB111B-0E4F-4ADA-9048-18139D85BBE3}</Project>
           <Name>SoundInTheory.Facebook.ConversionsAPI</Name>
       </ProjectReference>
   </ItemGroup>
