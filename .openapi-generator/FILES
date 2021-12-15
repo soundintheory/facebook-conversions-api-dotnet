@@ -1,5 +1,4 @@
 .gitignore
-.openapi-generator-ignore
 .travis.yml
 README.md
 SoundInTheory.Facebook.ConversionsAPI.sln
@@ -16,15 +15,6 @@ docs/ResponseSuccess.md
 docs/UserData.md
 git_push.sh
 mono_nunit_test.sh
-src/SoundInTheory.Facebook.ConversionsAPI.Test/Api/DefaultApiTests.cs
-src/SoundInTheory.Facebook.ConversionsAPI.Test/Model/ContentTests.cs
-src/SoundInTheory.Facebook.ConversionsAPI.Test/Model/CustomDataTests.cs
-src/SoundInTheory.Facebook.ConversionsAPI.Test/Model/EventRequestTests.cs
-src/SoundInTheory.Facebook.ConversionsAPI.Test/Model/ModelEventTests.cs
-src/SoundInTheory.Facebook.ConversionsAPI.Test/Model/ResponseErrorErrorTests.cs
-src/SoundInTheory.Facebook.ConversionsAPI.Test/Model/ResponseErrorTests.cs
-src/SoundInTheory.Facebook.ConversionsAPI.Test/Model/ResponseSuccessTests.cs
-src/SoundInTheory.Facebook.ConversionsAPI.Test/Model/UserDataTests.cs
 src/SoundInTheory.Facebook.ConversionsAPI.Test/SoundInTheory.Facebook.ConversionsAPI.Test.csproj
 src/SoundInTheory.Facebook.ConversionsAPI.Test/packages.config
 src/SoundInTheory.Facebook.ConversionsAPI/Api/DefaultApi.cs
