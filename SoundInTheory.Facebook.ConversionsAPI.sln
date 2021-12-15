@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 VisualStudioVersion = 12.0.0.0
 MinimumVisualStudioVersion = 10.0.0.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundInTheory.Facebook.ConversionsAPI", "src\SoundInTheory.Facebook.ConversionsAPI\SoundInTheory.Facebook.ConversionsAPI.csproj", "{0ECB111B-0E4F-4ADA-9048-18139D85BBE3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundInTheory.Facebook.ConversionsAPI", "src\SoundInTheory.Facebook.ConversionsAPI\SoundInTheory.Facebook.ConversionsAPI.csproj", "{5E2322F6-BF67-4699-8E9D-F227AE18D5D5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundInTheory.Facebook.ConversionsAPI.Test", "src\SoundInTheory.Facebook.ConversionsAPI.Test\SoundInTheory.Facebook.ConversionsAPI.Test.csproj", "{19F1DEBC-DE5E-4517-8062-F000CD499087}"
 EndProject
@@ -12,10 +12,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0ECB111B-0E4F-4ADA-9048-18139D85BBE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0ECB111B-0E4F-4ADA-9048-18139D85BBE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0ECB111B-0E4F-4ADA-9048-18139D85BBE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0ECB111B-0E4F-4ADA-9048-18139D85BBE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E2322F6-BF67-4699-8E9D-F227AE18D5D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E2322F6-BF67-4699-8E9D-F227AE18D5D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E2322F6-BF67-4699-8E9D-F227AE18D5D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E2322F6-BF67-4699-8E9D-F227AE18D5D5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{19F1DEBC-DE5E-4517-8062-F000CD499087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{19F1DEBC-DE5E-4517-8062-F000CD499087}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19F1DEBC-DE5E-4517-8062-F000CD499087}.Release|Any CPU.ActiveCfg = Release|Any CPU

@@ -16,7 +16,7 @@ Contact: web_signals_integrations@fb.com
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>SoundInTheory.Facebook.ConversionsAPI.Test</RootNamespace>
     <AssemblyName>SoundInTheory.Facebook.ConversionsAPI.Test</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -59,10 +59,10 @@ Contact: web_signals_integrations@fb.com
         <HintPath Condition="Exists('..\..\vendor')">..\..\vendor\JsonSubTypes.1.6.0\lib\net45\JsonSubTypes.dll</HintPath>
     </Reference>
     <Reference Include="RestSharp">
-        <HintPath Condition="Exists('$(SolutionDir)\packages')">$(SolutionDir)\packages\RestSharp.105.1.0\lib\net45\RestSharp.dll</HintPath>
-        <HintPath Condition="Exists('..\packages')">..\packages\RestSharp.105.1.0\lib\net45\RestSharp.dll</HintPath>
-        <HintPath Condition="Exists('..\..\packages')">..\..\packages\RestSharp.105.1.0\lib\net45\RestSharp.dll</HintPath>
-        <HintPath Condition="Exists('..\..\vendor')">..\..\vendor\RestSharp.105.1.0\lib\net45\RestSharp.dll</HintPath>
+        <HintPath Condition="Exists('$(SolutionDir)\packages')">$(SolutionDir)\packages\RestSharp.106.10.1\lib\net452\RestSharp.dll</HintPath>
+        <HintPath Condition="Exists('..\packages')">..\packages\RestSharp.106.10.1\lib\net452\RestSharp.dll</HintPath>
+        <HintPath Condition="Exists('..\..\packages')">..\..\packages\RestSharp.106.10.1\lib\net452\RestSharp.dll</HintPath>
+        <HintPath Condition="Exists('..\..\vendor')">..\..\vendor\RestSharp.106.10.1\lib\net452\RestSharp.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
         <HintPath Condition="Exists('$(SolutionDir)\packages')">$(SolutionDir)\packages\NUnit.3.11.0\lib\net45\nunit.framework.dll</HintPath>
@@ -81,7 +81,7 @@ Contact: web_signals_integrations@fb.com
   <Import Project="$(MsBuildToolsPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
       <ProjectReference Include="..\SoundInTheory.Facebook.ConversionsAPI\SoundInTheory.Facebook.ConversionsAPI.csproj">
-          <Project>{0ECB111B-0E4F-4ADA-9048-18139D85BBE3}</Project>
+          <Project>{5E2322F6-BF67-4699-8E9D-F227AE18D5D5}</Project>
           <Name>SoundInTheory.Facebook.ConversionsAPI</Name>
       </ProjectReference>
   </ItemGroup>
