@@ -65,7 +65,7 @@ namespace SoundInTheory.Facebook.ConversionsAPI.Model
         /// A numeric value associated with this event. This could be a monetary value or a value in some other metric.
         /// </summary>
         /// <value>A numeric value associated with this event. This could be a monetary value or a value in some other metric.</value>
-        [DataMember(Name="value", EmitDefaultValue=false)]
+        [DataMember(Name="value", EmitDefaultValue=true)]
         public decimal Value { get; set; }
 
         /// <summary>
