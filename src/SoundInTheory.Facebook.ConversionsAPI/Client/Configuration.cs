@@ -29,7 +29,7 @@ namespace SoundInTheory.Facebook.ConversionsAPI.Client
         /// Version of the package.
         /// </summary>
         /// <value>Version of the package.</value>
-        public const string Version = "0.2.0";
+        public const string Version = "0.2.1";
 
         /// <summary>
         /// Identifier for ISO 8601 DateTime Format
@@ -114,7 +114,7 @@ namespace SoundInTheory.Facebook.ConversionsAPI.Client
         /// </summary>
         public Configuration()
         {
-            UserAgent = "OpenAPI-Generator/0.2.0/csharp";
+            UserAgent = "OpenAPI-Generator/0.2.1/csharp";
             BasePath = "https://graph.facebook.com/v8.0";
             DefaultHeader = new ConcurrentDictionary<string, string>();
             ApiKey = new ConcurrentDictionary<string, string>();
@@ -187,7 +187,7 @@ namespace SoundInTheory.Facebook.ConversionsAPI.Client
             string tempFolderPath = null,
             string dateTimeFormat = null,
             int timeout = 100000,
-            string userAgent = "OpenAPI-Generator/0.2.0/csharp"
+            string userAgent = "OpenAPI-Generator/0.2.1/csharp"
             // ReSharper restore UnusedParameter.Local
             )
         {
@@ -421,7 +421,7 @@ namespace SoundInTheory.Facebook.ConversionsAPI.Client
             report += "    OS: " + System.Environment.OSVersion + "\n";
             report += "    .NET Framework Version: " + System.Environment.Version  + "\n";
             report += "    Version of the API: 1.0.0\n";
-            report += "    SDK Package Version: 0.2.0\n";
+            report += "    SDK Package Version: 0.2.1\n";
 
             return report;
         }

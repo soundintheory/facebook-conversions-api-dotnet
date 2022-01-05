@@ -4,7 +4,7 @@
 	"packageCompany": "Sound in Theory",
 	"packageName": "SoundInTheory.Facebook.ConversionsAPI",
 	"packageProductName": "FacebookConversionsAPI.NET",
-	"packageVersion": "0.2.0",
+	"packageVersion": "0.2.1",
 	"targetFramework": "v4.5.2",
 	"optionalEmitDefaultValues": "false"
 }

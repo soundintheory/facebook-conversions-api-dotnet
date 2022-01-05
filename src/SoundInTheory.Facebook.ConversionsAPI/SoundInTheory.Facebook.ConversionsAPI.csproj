@@ -12,7 +12,7 @@ Contact: web_signals_integrations@fb.com
     
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F2EC709A-7429-42B0-961A-45C41A0F4853}</ProjectGuid>
+    <ProjectGuid>{9DE5445F-02BF-46F8-8AF0-F27702D312E0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>SoundInTheory.Facebook.ConversionsAPI</RootNamespace>
